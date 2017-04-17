@@ -1,1 +1,1 @@
-cscript rename-as-timestamp.js
+cscript mts-timestamp-prefixer.js
